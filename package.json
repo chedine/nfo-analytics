@@ -1,0 +1,29 @@
+{
+  "name": "nfo-analytics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chedine/nfo-analytics.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/chedine/nfo-analytics/issues"
+  },
+  "homepage": "https://github.com/chedine/nfo-analytics#readme",
+  "dependencies": {
+    "moment": "^2.22.2",
+    "ramda": "^0.25.0",
+    "repl": "^0.1.3",
+    "rethinkdb": "^2.3.3",
+    "typescript": "^2.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "^10.5.4"
+  }
+}
